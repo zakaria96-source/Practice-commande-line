@@ -1,0 +1,11 @@
+hp@hp-PC MINGW64 ~/Desktop
+$ mkdir Practice
+
+hp@hp-PC MINGW64 ~/Desktop
+$ cd Practice
+
+hp@hp-PC MINGW64 ~/Desktop/Practice
+$ touch Commandes-lines
+
+hp@hp-PC MINGW64 ~/Desktop/Practice
+$ nano Commandes-lines
